@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "org.example.PacketCrasherPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Rusher Utils plugin",
+  "URL": "https://github.com/RusherDevelopment/example-plugin",
+  "Authors": [
+    "EMIRPLUS"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
